@@ -8,3 +8,6 @@ In Data Exploration simple I had explored the data and find that how much unique
 In Data visualization I had plot different bar plots to related the things in this I had observed that how much revenue is the reps generating in their respective regions? what products are fast-moving in terms of the quantity and revenue generated? who sells what products at what quantity in which region?.
 
 Finally, I had used a k-means clustering model.
+
+Dataset:- https://www.kaggle.com/seetzz/market-segmentation
+Thanks to:- https://www.kaggle.com/rajashri/market-segmentation/notebook
