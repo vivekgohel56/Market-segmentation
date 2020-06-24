@@ -10,4 +10,5 @@ In Data visualization I had plot different bar plots to related the things in th
 Finally, I had used a k-means clustering model.
 
 Dataset:- https://www.kaggle.com/seetzz/market-segmentation
+
 Thanks to:- https://www.kaggle.com/rajashri/market-segmentation/notebook
